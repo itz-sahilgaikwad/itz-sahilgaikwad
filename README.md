@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,django,html,css,react,postgres,sqlite,redis,docker,git,github,vscode&perline=8" alt="Programming languages, frameworks, databases, and development tools." />
+<img src="https://skillicons.dev/icons?i=html,css,react,docker&perline=4" alt="HTML, CSS, React, and Docker." />
 
 </div>
 
