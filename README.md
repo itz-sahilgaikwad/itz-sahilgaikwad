@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="./hero.svg" alt="Sahil Gaikwad — Computer Science Engineering Student" width="100%" />
 
@@ -143,24 +143,30 @@ A Django application for managing code snippets in one place, with tools to orga
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github"
-  alt="GitHub statistics"
-  width="49%"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-  alt="Most used programming languages"
-  width="49%"
-/>
+<p align="center" width="100%">
+  <img
+    align="top"
+    src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github"
+    alt="GitHub statistics"
+    width="49%"
+  />
+  <img
+    align="top"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Most used programming languages"
+    width="49%"
+  />
+</p>
 
 <br />
 
-<img
-  src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&amp;theme=tokyonight&amp;hide_border=true"
-  alt="GitHub contribution streak"
-  width="70%"
-/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&amp;theme=tokyonight&amp;hide_border=true"
+    alt="GitHub contribution streak"
+    width="70%"
+  />
+</p>
 
 </div>
 
