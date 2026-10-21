@@ -1,7 +1,8 @@
 
 <!--
   GitHub Profile README — Sahil Gaikwad
-  Keep all five SVG files in the repository root.
+  Keep hero.svg, about-life.svg, stack.svg,
+  id-dashboard.svg, and connect.svg in the repository root.
 -->
 
 <p align="center">
@@ -9,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itz-sahilgaikwad" title="GitHub" target="_blank">
+  <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
     <img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
@@ -186,11 +187,11 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
 <img src="./connect.svg" width="100%" alt="Connect with Sahil to discuss projects and development." />
 
 <p align="center">
-  <a href="https://github.com/itz-sahilgaikwad" title="GitHub" target="_blank">
+  <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
     <img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
