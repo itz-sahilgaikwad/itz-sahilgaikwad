@@ -28,7 +28,7 @@
 I'm a **Computer Science Engineering student at Sandip University, Nashik**. I enjoy building practical applications, solving programming problems, and developing my skills through hands-on projects.
 
 - **Current focus:** Python, Django, REST APIs, and databases
-- **Interests:** Backend engineering and full-stack development
+- **Development interests:** Backend engineering and full-stack development
 - **Practising:** Data Structures and Algorithms, OOP, and SQL
 - **Approach:** Learn the fundamentals, build projects, and improve through debugging
 
@@ -38,10 +38,10 @@ I'm a **Computer Science Engineering student at Sandip University, Nashik**. I e
 
 <div align="center">
 
-[Technology](#-technology-toolkit) &nbsp;·&nbsp;
-[Projects](#-featured-projects) &nbsp;·&nbsp;
-[GitHub Activity](#-github-activity) &nbsp;·&nbsp;
-[Learning](#-currently-learning) &nbsp;·&nbsp;
+[Technology](#-technology-toolkit) ·
+[Projects](#-featured-projects) ·
+[GitHub Activity](#-github-activity) ·
+[Learning](#-currently-learning) ·
 [Connect](#-connect)
 
 </div>
@@ -129,14 +129,15 @@ A Django application for saving, organizing, searching, and sharing reusable cod
 
 <a href="https://github.com/itz-sahilgaikwad">
   <img
+    width="49%"
     height="180"
     align="middle"
     src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=450&hide=issues"
     alt="GitHub statistics, including stars, commits, pull requests, and contribution rank."
   />
-</a>
-<a href="https://github.com/itz-sahilgaikwad">
+</a><a href="https://github.com/itz-sahilgaikwad">
   <img
+    width="49%"
     height="180"
     align="middle"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&card_width=450"
@@ -146,11 +147,13 @@ A Django application for saving, organizing, searching, and sharing reusable cod
 
 <br /><br />
 
-<img
-  width="85%"
-  src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&theme=tokyonight&hide_border=true"
-  alt="GitHub contribution streak, current streak, and longest streak."
-/>
+<a href="https://streak-stats.demolab.com/?user=itz-sahilgaikwad">
+  <img
+    width="65%"
+    src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak, current streak, and longest streak."
+  />
+</a>
 
 <br /><br />
 
@@ -172,7 +175,7 @@ A Django application for saving, organizing, searching, and sharing reusable cod
 
 </div>
 
-<sub>GitHub statistics and contribution graphics use external services and may occasionally be unavailable. Language percentages reflect repository contents, not overall programming ability.</sub>
+<sub>Statistics and contribution graphics use external services and may occasionally be unavailable. Language percentages reflect repository contents, not overall programming ability.</sub>
 
 ---
 
