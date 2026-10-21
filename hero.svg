@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Sahil Gaikwad — Developer</title><desc id="desc">A custom dark blue and violet developer profile banner.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D1A"/><stop offset=".55" stop-color="#111B35"/><stop offset="1" stop-color="#24134A"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#48C6EF"/><stop offset=".52" stop-color="#7C5CFC"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#4F46E5" stop-opacity=".42"/><stop offset="1" stop-color="#4F46E5" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91A4D8" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+<circle cx="1020" cy="100" r="280" fill="url(#glow)"/><circle cx="1010" cy="150" r="115" fill="none" stroke="#8B8CFB" stroke-opacity=".28"/><circle cx="1010" cy="150" r="82" fill="none" stroke="#8B8CFB" stroke-opacity=".35" stroke-dasharray="5 9"/>
+<g transform="translate(930 70)" stroke="url(#line)" stroke-width="2" fill="none" opacity=".9"><path d="M0 35L80 0L160 35L160 125L80 165L0 125Z"/><path d="M0 35L80 80L160 35M80 80V165M40 17L120 53V108L40 72Z" opacity=".7"/><circle cx="80" cy="80" r="12" fill="#7C5CFC" fill-opacity=".3"/></g>
+<g fill="#9BA9D1" opacity=".8"><circle cx="880" cy="45" r="2"/><circle cx="1120" cy="52" r="3"/><circle cx="1160" cy="222" r="2"/><circle cx="860" cy="250" r="3"/><circle cx="1080" cy="270" r="2"/></g>
+<rect x="62" y="48" width="7" height="218" rx="3.5" fill="url(#line)"/>
+<text x="96" y="80" font-family="monospace" font-size="15" letter-spacing="4" fill="#7DD3FC">PORTFOLIO / 001</text>
+<text x="92" y="145" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="55" fill="#F8FAFC">SAHIL GAIKWAD</text>
+<rect x="96" y="167" width="440" height="2" rx="1" fill="url(#line)"/>
+<text x="96" y="203" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#D8E2F7">Computer Science Engineering Student</text>
+<text x="96" y="237" font-family="monospace" font-size="16" fill="#A5B4D8">PYTHON  ·  DJANGO  ·  BACKEND DEVELOPMENT</text>
+<text x="96" y="280" font-family="monospace" font-size="12" letter-spacing="2" fill="#647AA9">BUILDING USEFUL SOFTWARE, ONE PROJECT AT A TIME</text>
+</svg>
