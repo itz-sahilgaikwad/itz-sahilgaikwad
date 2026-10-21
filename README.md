@@ -8,10 +8,21 @@
 <br />
 
 <a href="https://github.com/itz-sahilgaikwad">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+    width="30"
+    height="30"
+    alt="GitHub"
+  />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    width="30"
+    height="30"
+    alt="LinkedIn"
+  />
 </a>
 
 <br /><br />
@@ -209,10 +220,21 @@ My goal is to strengthen my programming fundamentals and build reliable, maintai
 <div align="center">
 
 <a href="https://github.com/itz-sahilgaikwad">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img
+    src="https://cdn.simpleicons.org/github/FFFFFF"
+    width="30"
+    height="30"
+    alt="GitHub"
+  />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    width="30"
+    height="30"
+    alt="LinkedIn"
+  />
 </a>
 
 <br /><br />
