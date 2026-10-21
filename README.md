@@ -1,3 +1,4 @@
+
 <!-- GitHub Profile README — Sahil Gaikwad -->
 
 <div align="center">
@@ -21,7 +22,8 @@
 
 ---
 
-## 👋 About Me
+<a id="about-me"></a>
+## About Me
 
 <img src="./about-life.svg" width="100%" alt="About me: Computer Science Engineering student interested in backend systems, APIs, databases, and developer tools." />
 
@@ -34,21 +36,22 @@ I'm a **Computer Science Engineering student at Sandip University, Nashik**. I e
 
 ---
 
-## 🧭 Explore My Profile
+## Explore My Profile
 
 <div align="center">
 
-[Technology](#-technology-toolkit) ·
-[Projects](#-featured-projects) ·
-[GitHub Activity](#-github-activity) ·
-[Learning](#-currently-learning) ·
-[Connect](#-connect)
+<a href="#technology-toolkit">Technology</a> &nbsp;·&nbsp;
+<a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+<a href="#github-activity">GitHub Activity</a> &nbsp;·&nbsp;
+<a href="#currently-learning">Learning</a> &nbsp;·&nbsp;
+<a href="#connect">Connect</a>
 
 </div>
 
 ---
 
-## 🛠️ Technology Toolkit
+<a id="technology-toolkit"></a>
+## Technology Toolkit
 
 <img src="./stack.svg" width="100%" alt="Technology toolkit covering programming languages, backend frameworks, databases, and developer tools." />
 
@@ -77,11 +80,12 @@ I'm a **Computer Science Engineering student at Sandip University, Nashik**. I e
 
 ---
 
-## 🚀 Featured Projects
+<a id="featured-projects"></a>
+## Featured Projects
 
 <img src="./id-dashboard.svg" width="100%" alt="Featured projects: API Monitoring Dashboard and Developer Snippet Manager." />
 
-### 📡 API Monitoring Dashboard
+### API Monitoring Dashboard
 
 A backend-focused application for monitoring API health, recording check results, and detecting service downtime and recovery.
 
@@ -95,7 +99,7 @@ A backend-focused application for monitoring API health, recording check results
 
 **Technology stack**
 
-`Python` `Django` `Django REST Framework` `Celery` `Redis` `PostgreSQL`
+`Python` · `Django` · `Django REST Framework` · `Celery` · `Redis` · `PostgreSQL`
 
 <p>
   <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
@@ -103,7 +107,7 @@ A backend-focused application for monitoring API health, recording check results
   </a>
 </p>
 
-### 🗂️ Developer Snippet Manager
+### Developer Snippet Manager
 
 A Django application for saving, organizing, searching, and sharing reusable code snippets.
 
@@ -117,40 +121,41 @@ A Django application for saving, organizing, searching, and sharing reusable cod
 
 **Technology stack**
 
-`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
+`Python` · `Django` · `SQLite` · `HTML` · `CSS` · `JavaScript`
 
 > **Repository:** Add the public Snippet Manager repository URL when available.
 
 ---
 
-## 📊 GitHub Activity
+<a id="github-activity"></a>
+## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/itz-sahilgaikwad">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=450&hide=issues"
     width="49%"
     height="180"
     align="middle"
-    src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=450&hide=issues"
     alt="GitHub statistics, including stars, commits, pull requests, and contribution rank."
   />
 </a><a href="https://github.com/itz-sahilgaikwad">
   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&card_width=450"
     width="49%"
     height="180"
     align="middle"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&card_width=450"
     alt="Most-used programming languages displayed in a compact layout."
   />
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://streak-stats.demolab.com/?user=itz-sahilgaikwad">
   <img
-    width="65%"
     src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&theme=tokyonight&hide_border=true"
+    width="65%"
     alt="GitHub contribution streak, current streak, and longest streak."
   />
 </a>
@@ -179,7 +184,8 @@ A Django application for saving, organizing, searching, and sharing reusable cod
 
 ---
 
-## 🌱 Currently Learning
+<a id="currently-learning"></a>
+## Currently Learning
 
 <div align="center">
 
@@ -195,7 +201,8 @@ My goal is to strengthen my programming fundamentals and build reliable, maintai
 
 ---
 
-## 🤝 Connect
+<a id="connect"></a>
+## Connect
 
 <img src="./connect.svg" width="100%" alt="Connect with Sahil to share ideas, learn, and collaborate on software projects." />
 
