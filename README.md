@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="./hero.svg" alt="Sahil Gaikwad — Computer Science Engineering Student" width="100%" />
 
@@ -14,10 +14,7 @@
 
 <h2>Building Backend &amp; Developer Tools</h2>
 
-<p>
-  Learning through projects. Solving problems with code.
-  Improving one build at a time.
-</p>
+<p>Learning through projects. Solving problems with code. Improving one build at a time.</p>
 
 <p>
   <a href="#about-me">About</a> ·
@@ -36,22 +33,16 @@
 
 <img src="./about-life.svg" alt="About me" width="100%" />
 
-I'm a Computer Science Engineering student interested in backend
-development, REST APIs, and building practical developer tools.
+I'm a Computer Science Engineering student interested in backend development, REST APIs, and building practical developer tools.
 
-- **Primary focus:** Backend development and API-driven applications.
-- **Programming languages:** Python, Java, C, and JavaScript.
-- **Backend technologies:** Django and Django REST Framework.
+- **Focus:** Backend development and API-driven applications.
+- **Languages:** Python, Java, C, and JavaScript.
+- **Backend:** Django and Django REST Framework.
 - **Databases:** PostgreSQL and SQLite.
-- **Tools and infrastructure:** Git, GitHub, Redis, and Docker.
-- **Development approach:** Learn by building, testing, debugging,
-  and improving real projects.
+- **Infrastructure:** Redis, Celery, and Docker.
+- **Workflow:** Building, testing, debugging, and improving real projects.
 
-I enjoy turning ideas into working applications and understanding
-how software works beyond just writing code.
-
-My current goal is to strengthen my programming fundamentals and
-build reliable, maintainable software through practical projects.
+My goal is to strengthen my programming fundamentals and build reliable, maintainable software through hands-on development.
 
 ---
 
@@ -104,29 +95,22 @@ build reliable, maintainable software through practical projects.
 
 ### 01 · API Monitor
 
-**A dashboard for monitoring API availability and service health.**
+**Monitor API availability, response times, and service health.**
 
-A Django-based application built to check API endpoints, record
-monitoring history, detect downtime and recovery, and calculate
-uptime analytics.
+A Django-based application that checks API endpoints, records monitoring history, detects downtime and recovery, and provides uptime analytics.
 
-**Key features**
-
-- Automated API health checks.
+**Highlights**
+- Automated health checks and scheduled monitoring.
 - Downtime and recovery detection.
 - Monitoring logs and status history.
 - Uptime analytics.
 - Email notifications for monitoring events.
-- Scheduled monitoring using Celery and Redis.
 
-**Technology stack**
-
-`Python` `Django` `Django REST Framework` `Celery` `Redis`
-`SQLite` `PostgreSQL`
+**Built with:** Python · Django · Django REST Framework · Celery · Redis · SQLite · PostgreSQL
 
 <p>
   <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
-    <img src="https://img.shields.io/badge/Explore_API_Monitor-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore API Monitor repository" />
+    <img src="https://img.shields.io/badge/View_API_Monitor-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View API Monitor repository" />
   </a>
 </p>
 
@@ -134,27 +118,22 @@ uptime analytics.
 
 ### 02 · Developer Snippet Manager
 
-**A web application for organizing and reusing code snippets.**
+**Save, organize, search, and share reusable code snippets.**
 
-A Django project designed to help developers store, organize,
-search, and share reusable pieces of code.
+A Django application for managing code snippets in one place, with tools to organize and retrieve code efficiently.
 
-**Key features**
-
-- Create, edit, and manage code snippets.
-- Save favorite snippets.
-- Share snippets publicly.
-- Search, filter, and paginate snippet collections.
-- Access snippet data through API endpoints.
+**Highlights**
+- Create, edit, and manage snippets.
+- Favorites and public sharing.
+- Search, filtering, and pagination.
+- API endpoints for snippet data.
 - User authentication and email OTP functionality.
 
-**Technology stack**
-
-`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
+**Built with:** Python · Django · SQLite · HTML · CSS · JavaScript
 
 <p>
   <a href="https://github.com/itz-sahilgaikwad?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" />
+    <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub repositories" />
   </a>
 </p>
 
@@ -221,14 +200,11 @@ search, and share reusable pieces of code.
 
 ## Connect
 
-<div align="center">
-
 <img src="./connect.svg" alt="Connect and collaborate" width="100%" />
 
-<p>
-  Interested in backend development, developer tools,
-  and practical software projects.
-</p>
+<div align="center">
+
+<p>Interested in backend development, developer tools, and practical software projects.</p>
 
 <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
   <img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="GitHub" />
