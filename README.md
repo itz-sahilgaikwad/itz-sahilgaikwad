@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" />
+  <a href="https://github.com/itz-sahilgaikwad" title="GitHub" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
 
@@ -186,12 +186,12 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
 <img src="./connect.svg" width="100%" alt="Connect with Sahil to discuss projects and development." />
 
 <p align="center">
-  <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" />
+  <a href="https://github.com/itz-sahilgaikwad" title="GitHub" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
 
