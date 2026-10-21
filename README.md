@@ -9,7 +9,7 @@
 
 <a href="https://github.com/itz-sahilgaikwad">
   <img
-    src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=github&logoColor=white&color=181717"
+    src="https://img.shields.io/badge/%E2%80%8B-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
     height="35"
   />
@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
   <img
-    src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"
+    src="https://img.shields.io/badge/%E2%80%8B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
     height="35"
   />
@@ -219,7 +219,7 @@ My goal is to strengthen my programming fundamentals and build reliable, maintai
 
 <a href="https://github.com/itz-sahilgaikwad">
   <img
-    src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=github&logoColor=white&color=181717"
+    src="https://img.shields.io/badge/%E2%80%8B-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
     height="35"
   />
@@ -227,7 +227,7 @@ My goal is to strengthen my programming fundamentals and build reliable, maintai
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
   <img
-    src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"
+    src="https://img.shields.io/badge/%E2%80%8B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
     height="35"
   />
