@@ -1,182 +1,190 @@
+<!--
+  GitHub Profile README — Sahil Gaikwad
+  Profile repository: itz-sahilgaikwad/itz-sahilgaikwad
+-->
+
 <div align="center">
 
-<img src="./hero.svg" alt="Sahil Gaikwad — Computer Science Engineering Student" width="100%" />
+<img src="./hero.svg" width="100%" alt="Sahil Gaikwad — Computer Science Engineering student and developer." />
 
 <p>
-  <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="GitHub" />
+  <a href="https://github.com/itz-sahilgaikwad">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
 
-<h2>Building Backend &amp; Developer Tools</h2>
-
-<p>Learning through projects. Solving problems with code. Improving one build at a time.</p>
-
-<p>
-  <a href="#about-me">About</a> ·
-  <a href="#tech-stack">Tech Stack</a> ·
-  <a href="#featured-projects">Projects</a> ·
-  <a href="#github-activity">Activity</a> ·
-  <a href="#currently-learning">Learning</a> ·
-  <a href="#connect">Connect</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=760&height=42&lines=Building+useful+developer+tools;Python+%7C+Django+%7C+REST+APIs;Learning+by+building+real+projects" alt="Building useful developer tools, working with Python and Django, and learning through projects." />
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-<img src="./about-life.svg" alt="About me" width="100%" />
+<img src="./about-life.svg" width="100%" alt="About me: Computer Science Engineering student interested in backend systems, APIs, databases, and developer tools." />
 
-I'm a Computer Science Engineering student interested in backend development, REST APIs, and building practical developer tools.
+I'm a **Computer Science Engineering student at Sandip University, Nashik**. I enjoy learning by building practical applications, solving programming problems, and improving my development skills through real projects.
 
-- **Focus:** Backend development and API-driven applications.
-- **Languages:** Python, Java, C, and JavaScript.
-- **Backend:** Django and Django REST Framework.
-- **Databases:** PostgreSQL and SQLite.
-- **Infrastructure:** Redis, Celery, and Docker.
-- **Workflow:** Building, testing, debugging, and improving real projects.
-
-My goal is to strengthen my programming fundamentals and build reliable, maintainable software through hands-on development.
+- **Current focus:** Python, Django, REST APIs, and databases
+- **Development interests:** Backend engineering and full-stack development
+- **Practising:** Object-Oriented Programming, Data Structures and Algorithms, and SQL
+- **Approach:** Build projects, understand the underlying concepts, and improve through debugging
 
 ---
 
-## Tech Stack
+## 🧭 Quick Navigation
 
-<img src="./stack.svg" alt="Technology stack" width="100%" />
+<div align="center">
 
-### Languages
+[About Me](#-about-me) ·
+[Technology](#-technology-toolkit) ·
+[Projects](#-featured-projects) ·
+[GitHub Activity](#-github-activity) ·
+[Learning](#-currently-learning) ·
+[Connect](#-connect)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-</p>
-
-### Backend and Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-</p>
-
-### Databases and Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-</p>
-
-### Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
-</p>
+</div>
 
 ---
 
-## Featured Projects
+## 🛠️ Technology Toolkit
 
-<img src="./id-dashboard.svg" alt="Featured developer projects" width="100%" />
+<img src="./stack.svg" width="100%" alt="Technology toolkit covering programming languages, backend development, databases, and developer tools." />
 
-### 01 · API Monitor
+<details>
+  <summary><strong>Explore my technologies</strong></summary>
 
-**Monitor API availability, response times, and service health.**
+  **Programming Languages**
+  - Python
+  - Java
+  - C
+  - JavaScript
 
-A Django-based application that checks API endpoints, records monitoring history, detects downtime and recovery, and provides uptime analytics.
+  **Backend and APIs**
+  - Django
+  - Django REST Framework
+  - Flask
+  - Celery
+  - Redis
 
-**Highlights**
-- Automated health checks and scheduled monitoring.
-- Downtime and recovery detection.
-- Monitoring logs and status history.
-- Uptime analytics.
-- Email notifications for monitoring events.
+  **Frontend**
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Tailwind CSS
+  - Vite
 
-**Built with:** Python · Django · Django REST Framework · Celery · Redis · SQLite · PostgreSQL
+  **Databases**
+  - SQLite
+  - PostgreSQL
+  - SQL
+
+  **Tools**
+  - Git
+  - GitHub
+  - VS Code
+  - Docker
+
+  *This list includes technologies used in projects or explored while learning. It does not imply expert-level proficiency in every technology.*
+
+</details>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,django,html,css,react,postgres,sqlite,redis,docker,git,github,vscode&perline=8" alt="Programming languages, frameworks, databases, and development tools." />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<img src="./id-dashboard.svg" width="100%" alt="Featured projects: API Monitoring Dashboard and Developer Snippet Manager." />
+
+### 📡 API Monitoring Dashboard
+
+A backend-focused application that monitors API health, records check results, and detects service downtime and recovery.
+
+**Key features**
+- API health checks and monitoring logs
+- Downtime and recovery detection
+- Uptime percentage analytics
+- Background monitoring with Celery and Redis
+- Email alerts for monitoring events
+- PostgreSQL support for deployment
+
+**Technology stack**
+
+`Python` `Django` `Django REST Framework` `Celery` `Redis` `PostgreSQL`
 
 <p>
   <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
-    <img src="https://img.shields.io/badge/View_API_Monitor-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View API Monitor repository" />
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View API Monitoring Dashboard source code" />
   </a>
 </p>
 
----
+### 🗂️ Developer Snippet Manager
 
-### 02 · Developer Snippet Manager
+A Django application for storing, organizing, searching, and sharing reusable code snippets.
 
-**Save, organize, search, and share reusable code snippets.**
+**Key features**
+- Create, edit, and delete snippets
+- Search, filtering, and pagination
+- Favorites and public sharing links
+- User authentication with email OTP verification
+- JSON API
+- Syntax-highlighted code display
 
-A Django application for managing code snippets in one place, with tools to organize and retrieve code efficiently.
+**Technology stack**
 
-**Highlights**
-- Create, edit, and manage snippets.
-- Favorites and public sharing.
-- Search, filtering, and pagination.
-- API endpoints for snippet data.
-- User authentication and email OTP functionality.
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
 
-**Built with:** Python · Django · SQLite · HTML · CSS · JavaScript
-
-<p>
-  <a href="https://github.com/itz-sahilgaikwad?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub repositories" />
-  </a>
-</p>
+> **Repository:** The public repository link can be added here when available.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;card_width=450"
-        alt="GitHub statistics"
-        width="100%"
-      />
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/itz-sahilgaikwad">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=450"
+          width="100%"
+          alt="GitHub statistics including stars, commits, pull requests, issues, and contribution rank."
+        />
+      </a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=5&amp;card_width=450"
-        alt="Most used programming languages"
-        width="100%"
-      />
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/itz-sahilgaikwad">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&layout=normal&theme=tokyonight&hide_border=true&langs_count=5&card_width=450"
+          width="100%"
+          alt="Most-used programming languages in public repositories."
+        />
+      </a>
     </td>
   </tr>
 </table>
 
 <br />
 
-<p align="center">
+<a href="https://streak-stats.demolab.com/?user=itz-sahilgaikwad">
   <img
-    src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&amp;theme=tokyonight&amp;hide_border=true"
-    alt="GitHub contribution streak"
-    width="75%"
+    width="80%"
+    src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak, current streak, and longest streak."
   />
-</p>
+</a>
 
-</div>
-
-### Contribution Snake
-
-<div align="center">
+<br /><br />
 
 <picture>
   <source
@@ -189,41 +197,48 @@ A Django application for managing code snippets in one place, with tools to orga
   />
   <img
     src="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake.svg"
-    alt="GitHub contribution snake animation"
     width="100%"
+    alt="Animated snake showing GitHub contribution activity."
   />
 </picture>
 
 </div>
 
----
-
-## Currently Learning
-
-- Strengthening data structures and algorithms.
-- Improving Python and Java programming fundamentals.
-- Building better backend applications and REST APIs.
-- Learning database design, testing, and deployment practices.
-- Improving code quality, debugging, and software architecture.
+<sub>Statistics and contribution graphics are provided by external services and may occasionally be unavailable. Language percentages reflect repository contents, not overall programming ability.</sub>
 
 ---
 
-## Connect
-
-<img src="./connect.svg" alt="Connect and collaborate" width="100%" />
+## 🌱 Currently Learning
 
 <div align="center">
 
-<p>Interested in backend development, developer tools, and practical software projects.</p>
+<img src="https://img.shields.io/badge/01-Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge" alt="Data Structures and Algorithms" />
+<img src="https://img.shields.io/badge/02-Object--Oriented%20Programming-7C3AED?style=for-the-badge" alt="Object-Oriented Programming" />
+<img src="https://img.shields.io/badge/03-Django%20%26%20REST%20APIs-0F766E?style=for-the-badge" alt="Django and REST APIs" />
+<img src="https://img.shields.io/badge/04-SQL%20%26%20Database%20Design-B45309?style=for-the-badge" alt="SQL and database design" />
+<img src="https://img.shields.io/badge/05-Testing%20%26%20Deployment-475569?style=for-the-badge" alt="Testing and deployment" />
 
-<a href="https://github.com/itz-sahilgaikwad" title="GitHub">
-  <img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="GitHub" />
+</div>
+
+My goal is to strengthen my fundamentals while building reliable, maintainable applications and gaining practical software development experience.
+
+---
+
+## 🤝 Connect
+
+<img src="./connect.svg" width="100%" alt="Connect with Sahil to share ideas, learn, and collaborate on software projects." />
+
+<div align="center">
+
+<a href="https://github.com/itz-sahilgaikwad">
+  <img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile and projects" />
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/" title="LinkedIn">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
 
-<p><sub>Building useful software, one project at a time.</sub></p>
+<br /><br />
+
+**Build with purpose · Learn with curiosity · Improve every day**
 
 </div>
