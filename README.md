@@ -1,4 +1,3 @@
- 
 <div align="center">
 
 <img src="./hero.svg" alt="Sahil Gaikwad — Computer Science Engineering Student" width="100%" />
@@ -15,11 +14,14 @@
 
 <h2>Building Backend &amp; Developer Tools</h2>
 
-<p><i>Learning through projects. Solving problems with code. Improving one build at a time.</i></p>
+<p>
+  Learning through projects. Solving problems with code.
+  Improving one build at a time.
+</p>
 
 <p>
   <a href="#about-me">About</a> ·
-  <a href="#tech-stack">Technologies</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
   <a href="#featured-projects">Projects</a> ·
   <a href="#github-activity">Activity</a> ·
   <a href="#currently-learning">Learning</a> ·
@@ -34,15 +36,24 @@
 
 <img src="./about-life.svg" alt="About me" width="100%" />
 
-I'm a Computer Science Engineering student interested in backend development, REST APIs, and building practical developer tools.
+I'm a Computer Science Engineering student interested in backend
+development, REST APIs, and building practical developer tools.
 
-- **Focus:** Backend development and API-driven applications.
-- **Languages:** Python, Java, C, and JavaScript.
-- **Backend:** Django and Django REST Framework.
-- **Databases and infrastructure:** PostgreSQL, SQLite, Redis, and Docker.
-- **Approach:** Learn by building, testing, debugging, and improving real projects.
+- **Primary focus:** Backend development and API-driven applications.
+- **Programming languages:** Python, Java, C, and JavaScript.
+- **Backend technologies:** Django and Django REST Framework.
+- **Databases:** PostgreSQL and SQLite.
+- **Tools and infrastructure:** Git, GitHub, Redis, and Docker.
+- **Development approach:** Learn by building, testing, debugging,
+  and improving real projects.
 
-My goal is to develop reliable, maintainable software while strengthening my programming fundamentals.
+I enjoy turning ideas into working applications and understanding
+how software works beyond just writing code.
+
+My current goal is to strengthen my programming fundamentals and
+build reliable, maintainable software through practical projects.
+
+---
 
 ## Tech Stack
 
@@ -61,7 +72,7 @@ My goal is to develop reliable, maintainable software while strengthening my pro
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
@@ -85,88 +96,139 @@ My goal is to develop reliable, maintainable software while strengthening my pro
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
 </p>
 
+---
+
 ## Featured Projects
 
 <img src="./id-dashboard.svg" alt="Featured developer projects" width="100%" />
 
 ### 01 · API Monitor
 
-**Monitor API availability, response times, and service health.**
+**A dashboard for monitoring API availability and service health.**
 
-A Django-based API monitoring application designed to check endpoints, record monitoring logs, detect downtime and recovery, and provide uptime analytics.
+A Django-based application built to check API endpoints, record
+monitoring history, detect downtime and recovery, and calculate
+uptime analytics.
 
-- **Backend:** Python, Django, Django REST Framework.
-- **Monitoring:** Celery, Redis.
-- **Data:** SQLite for development and PostgreSQL for production.
-- **Additional features:** Email alerts, monitoring history, and analytics.
+**Key features**
+
+- Automated API health checks.
+- Downtime and recovery detection.
+- Monitoring logs and status history.
+- Uptime analytics.
+- Email notifications for monitoring events.
+- Scheduled monitoring using Celery and Redis.
+
+**Technology stack**
+
+`Python` `Django` `Django REST Framework` `Celery` `Redis`
+`SQLite` `PostgreSQL`
 
 <p>
   <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View API Monitor repository" />
+    <img src="https://img.shields.io/badge/Explore_API_Monitor-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore API Monitor repository" />
   </a>
 </p>
 
+---
+
 ### 02 · Developer Snippet Manager
 
-**Organize and manage reusable code snippets.**
+**A web application for organizing and reusing code snippets.**
 
-A Django application focused on helping developers save, organize, search, and reuse code snippets.
+A Django project designed to help developers store, organize,
+search, and share reusable pieces of code.
 
-- Create, edit, and manage snippets.
-- Organize favorites and public sharing.
+**Key features**
+
+- Create, edit, and manage code snippets.
+- Save favorite snippets.
+- Share snippets publicly.
 - Search, filter, and paginate snippet collections.
-- Work with snippet data through API endpoints.
+- Access snippet data through API endpoints.
+- User authentication and email OTP functionality.
 
-*Repository link can be added when the project has a confirmed public GitHub URL.*
+**Technology stack**
+
+`Python` `Django` `SQLite` `HTML` `CSS` `JavaScript`
+
+<p>
+  <a href="https://github.com/itz-sahilgaikwad?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" />
+  </a>
+</p>
+
+---
 
 ## GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github"
-    alt="GitHub statistics"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-    alt="Most used programming languages"
-    width="49%"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&amp;theme=tokyonight&amp;hide_border=true"
-    alt="GitHub contribution streak"
-    width="70%"
-  />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github"
+  alt="GitHub statistics"
+  width="49%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+  alt="Most used programming languages"
+  width="49%"
+/>
+
+<br />
+
+<img
+  src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&amp;theme=tokyonight&amp;hide_border=true"
+  alt="GitHub contribution streak"
+  width="70%"
+/>
+
+</div>
 
 ### Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
 
 ## Currently Learning
-
-<img src="./connect.svg" alt="Keep learning and building" width="100%" />
 
 - Strengthening data structures and algorithms.
 - Improving Python and Java programming fundamentals.
 - Building better backend applications and REST APIs.
-- Learning more about database design, testing, and deployment.
-- Improving software engineering practices through projects.
+- Learning database design, testing, and deployment practices.
+- Improving code quality, debugging, and software architecture.
+
+---
 
 ## Connect
 
 <div align="center">
 
-<p>Interested in backend development, developer tools, and practical software projects.</p>
+<img src="./connect.svg" alt="Connect and collaborate" width="100%" />
+
+<p>
+  Interested in backend development, developer tools,
+  and practical software projects.
+</p>
 
 <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
   <img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="GitHub" />
