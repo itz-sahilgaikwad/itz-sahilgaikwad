@@ -92,21 +92,35 @@
 
 <img src="./id-dashboard.svg" width="100%" alt="Featured projects: API Monitoring Dashboard and Developer Snippet Manager." />
 
-### 01. API Monitoring Dashboard
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-A backend-focused application for monitoring API health, recording check results, and detecting service downtime and recovery.
+<h3>01. API Monitoring Dashboard</h3>
 
-**Key features**
-- API health checks and monitoring logs
-- Downtime and recovery detection
-- Uptime percentage analytics
-- Background monitoring with Celery and Redis
-- Email alerting
-- PostgreSQL support for deployment
+<p>A backend-focused application for monitoring API health, recording check results, and detecting service downtime and recovery.</p>
 
-**Technology stack**
+<p><strong>Key features</strong></p>
 
-`Python` · `Django` · `Django REST Framework` · `Celery` · `Redis` · `PostgreSQL`
+<ul>
+  <li>API health checks and monitoring logs</li>
+  <li>Downtime and recovery detection</li>
+  <li>Uptime percentage analytics</li>
+  <li>Background monitoring with Celery and Redis</li>
+  <li>Email alerting</li>
+  <li>PostgreSQL support for deployment</li>
+</ul>
+
+<p><strong>Technology stack</strong></p>
+
+<p>
+  <code>Python</code>
+  <code>Django</code>
+  <code>DRF</code>
+  <code>Celery</code>
+  <code>Redis</code>
+  <code>PostgreSQL</code>
+</p>
 
 <p>
   <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
@@ -114,25 +128,40 @@ A backend-focused application for monitoring API health, recording check results
   </a>
 </p>
 
----
+    </td>
+    <td width="50%" valign="top">
 
-### 02. Developer Snippet Manager
+<h3>02. Developer Snippet Manager</h3>
 
-A Django application for saving, organizing, searching, and sharing reusable code snippets.
+<p>A Django application for saving, organizing, searching, and sharing reusable code snippets.</p>
 
-**Key features**
-- Create, edit, and delete snippets
-- Search, filtering, and pagination
-- Favorites and public sharing links
-- User authentication with email OTP verification
-- JSON API
-- Syntax-highlighted code display
+<p><strong>Key features</strong></p>
 
-**Technology stack**
+<ul>
+  <li>Create, edit, and delete snippets</li>
+  <li>Search, filtering, and pagination</li>
+  <li>Favorites and public sharing links</li>
+  <li>User authentication with email OTP verification</li>
+  <li>JSON API</li>
+  <li>Syntax-highlighted code display</li>
+</ul>
 
-`Python` · `Django` · `SQLite` · `HTML` · `CSS` · `JavaScript`
+<p><strong>Technology stack</strong></p>
 
-> **Repository:** Add the public Snippet Manager repository URL when available.
+<p>
+  <code>Python</code>
+  <code>Django</code>
+  <code>SQLite</code>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+</p>
+
+<p><em>Repository link will be added when the public repository is available.</em></p>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
