@@ -1,8 +1,7 @@
 
 <!--
   GitHub Profile README — Sahil Gaikwad
-  Keep hero.svg, about-life.svg, stack.svg,
-  id-dashboard.svg, and connect.svg in the repository root.
+  Keep all five SVG files in the repository root.
 -->
 
 <p align="center">
@@ -10,16 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itz-sahilgaikwad" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" />
+  <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/itz-sahilgaikwad/API-Monitor" title="API Monitor Repository">
-    <img src="https://img.shields.io/badge/-API_Monitor-2563EB?style=flat-square&logo=github&logoColor=white" height="32" alt="API Monitor" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
 
@@ -191,12 +186,12 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
 <img src="./connect.svg" width="100%" alt="Connect with Sahil to discuss projects and development." />
 
 <p align="center">
-  <a href="https://github.com/itz-sahilgaikwad" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" />
+  <a href="https://github.com/itz-sahilgaikwad" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
   </a>
 </p>
 
