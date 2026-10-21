@@ -1,23 +1,24 @@
 
 <!--
   GitHub Profile README — Sahil Gaikwad
-  Keep hero.svg, about-life.svg, stack.svg,
-  id-dashboard.svg, and connect.svg in the repository root.
+  Keep all five SVG files in the repository root.
 -->
 
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Sahil Gaikwad — Computer Science Engineering student and backend developer in progress." />
+  <img src="./hero.svg" width="100%" alt="Sahil Gaikwad — Computer Science Engineering student focused on backend development." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/itz-sahilgaikwad">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <a href="https://github.com/itz-sahilgaikwad" title="GitHub Profile">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="34" height="34" alt="GitHub" />
   </a>
-  <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
-    <img src="https://img.shields.io/badge/Featured_Project-API_Monitor-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="API Monitor project" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn Profile">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — update your profile URL" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/itz-sahilgaikwad/API-Monitor" title="API Monitoring Dashboard">
+    <img src="https://cdn.simpleicons.org/github/58A6FF" width="34" height="34" alt="API Monitor Repository" />
   </a>
 </p>
 
@@ -36,7 +37,7 @@
   &nbsp;·&nbsp;
   <a href="#featured-projects">Projects</a>
   &nbsp;·&nbsp;
-  <a href="#github-activity">GitHub Activity</a>
+  <a href="#github-activity">Activity</a>
   &nbsp;·&nbsp;
   <a href="#currently-learning">Learning</a>
   &nbsp;·&nbsp;
@@ -118,9 +119,11 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
         <li>Email alerting</li>
       </ul>
       <p><strong>Stack:</strong> Python, Django, DRF, Celery, Redis, PostgreSQL</p>
-      <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
-        <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View API Monitor source code" />
-      </a>
+      <p>
+        <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
+          <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View API Monitor source code" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🗂️ Developer Snippet Manager</h3>
@@ -189,11 +192,12 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
 <img src="./connect.svg" width="100%" alt="Connect with Sahil to discuss projects and development." />
 
 <p align="center">
-  <a href="https://github.com/itz-sahilgaikwad">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <a href="https://github.com/itz-sahilgaikwad" title="GitHub Profile">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="34" height="34" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — update the profile URL" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sahil-gaikwad-a9496b2b8/" title="LinkedIn Profile">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" alt="LinkedIn" />
   </a>
 </p>
 
