@@ -145,7 +145,7 @@ A Django application for saving, organizing, searching, and sharing reusable cod
   />
 </a>
 
-<br /><br />
+<br />
 
 <a href="https://streak-stats.demolab.com/?user=itz-sahilgaikwad">
   <img
@@ -155,7 +155,7 @@ A Django application for saving, organizing, searching, and sharing reusable cod
   />
 </a>
 
-<br /><br />
+<br />
 
 <picture>
   <source
