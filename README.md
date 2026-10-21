@@ -92,7 +92,7 @@
 
 <img src="./id-dashboard.svg" width="100%" alt="Featured projects: API Monitoring Dashboard and Developer Snippet Manager." />
 
-### API Monitoring Dashboard
+### 01. API Monitoring Dashboard
 
 A backend-focused application for monitoring API health, recording check results, and detecting service downtime and recovery.
 
@@ -114,7 +114,9 @@ A backend-focused application for monitoring API health, recording check results
   </a>
 </p>
 
-### Developer Snippet Manager
+---
+
+### 02. Developer Snippet Manager
 
 A Django application for saving, organizing, searching, and sharing reusable code snippets.
 
