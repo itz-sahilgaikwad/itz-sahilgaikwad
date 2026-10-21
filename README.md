@@ -143,27 +143,32 @@ A Django application for managing code snippets in one place, with tools to orga
 
 <div align="center">
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;card_width=500"
-    alt="GitHub statistics"
-    width="80%"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;card_width=450"
+        alt="GitHub statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=5&amp;card_width=450"
+        alt="Most used programming languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=500"
-    alt="Most used programming languages"
-    width="80%"
-  />
-</p>
+<br />
 
-<p>
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&amp;theme=tokyonight&amp;hide_border=true"
     alt="GitHub contribution streak"
-    width="80%"
+    width="75%"
   />
 </p>
 
