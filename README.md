@@ -1,7 +1,8 @@
 
 <!--
   GitHub Profile README — Sahil Gaikwad
-  Keep the SVG files in the repository root.
+  Keep hero.svg, about-life.svg, stack.svg,
+  id-dashboard.svg, and connect.svg in the repository root.
 -->
 
 <p align="center">
@@ -10,13 +11,13 @@
 
 <p align="center">
   <a href="https://github.com/itz-sahilgaikwad">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
-    <img src="https://img.shields.io/badge/Featured_Project-API_Monitor-2563EB?style=for-the-badge&logo=github" alt="API Monitor project" />
+    <img src="https://img.shields.io/badge/Featured_Project-API_Monitor-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="API Monitor project" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile — update the URL" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — update your profile URL" />
   </a>
 </p>
 
@@ -28,8 +29,23 @@
   <i>Learning through projects. Solving problems with code. Improving one build at a time.</i>
 </p>
 
+<p align="center">
+  <a href="#about-me">About</a>
+  &nbsp;·&nbsp;
+  <a href="#technology-toolkit">Technologies</a>
+  &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="#github-activity">GitHub Activity</a>
+  &nbsp;·&nbsp;
+  <a href="#currently-learning">Learning</a>
+  &nbsp;·&nbsp;
+  <a href="#lets-connect">Connect</a>
+</p>
+
 ---
 
+<a id="about-me"></a>
 ## About Me
 
 <img src="./about-life.svg" width="100%" alt="About Sahil and his development interests." />
@@ -38,11 +54,12 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
 
 - Focused on **Python, Django, backend development, and REST APIs**.
 - Interested in API monitoring, databases, authentication, and developer tools.
-- Practicing programming fundamentals, OOP, and data structures and algorithms.
+- Practicing programming fundamentals, object-oriented programming, and data structures and algorithms.
 - Learning by building projects and improving them through testing and debugging.
 
 ---
 
+<a id="technology-toolkit"></a>
 ## Technology Toolkit
 
 <img src="./stack.svg" width="100%" alt="Visual overview of my technology toolkit." />
@@ -75,13 +92,14 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
   - **Frontend:** HTML, CSS, JavaScript, React, Vite, Tailwind CSS, TypeScript
   - **Databases:** SQLite, PostgreSQL, SQL
   - **Development:** Git, GitHub, VS Code
-  - **Deployment and infrastructure:** Exploring Docker, Redis-backed services, and production deployment
+  - **Deployment and infrastructure:** Docker, Redis-backed services, production deployment
 
-  These technologies reflect a combination of project experience and ongoing learning, not equal proficiency in every tool.
+  These technologies represent a combination of project experience and ongoing learning, not equal proficiency in every tool.
 </details>
 
 ---
 
+<a id="featured-projects"></a>
 ## Featured Projects
 
 <img src="./id-dashboard.svg" width="100%" alt="Featured project showcase." />
@@ -101,7 +119,7 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
       </ul>
       <p><strong>Stack:</strong> Python, Django, DRF, Celery, Redis, PostgreSQL</p>
       <a href="https://github.com/itz-sahilgaikwad/API-Monitor">
-        <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore API Monitor repository" />
+        <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View API Monitor source code" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -110,32 +128,32 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
       <p><strong>Key features</strong></p>
       <ul>
         <li>Snippet creation, editing, and deletion</li>
-        <li>Search, filters, and pagination</li>
+        <li>Search, filtering, and pagination</li>
         <li>Favorites and public sharing links</li>
         <li>Email OTP authentication</li>
         <li>JSON API and syntax-highlighted code</li>
       </ul>
       <p><strong>Stack:</strong> Python, Django, SQLite, HTML, CSS, JavaScript</p>
-      <p><i>Add the public repository link when available.</i></p>
+      <p><i>Repository link can be added when the project is published.</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
+<a id="github-activity"></a>
 ## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/itz-sahilgaikwad">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
-  </a>
-  <a href="https://github.com/itz-sahilgaikwad">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most-used languages in public repositories" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itz-sahilgaikwad&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
+  </a><a href="https://github.com/itz-sahilgaikwad">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sahilgaikwad&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most-used languages in public repositories" />
   </a>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&theme=transparent&hide_border=true&ring=8B5CF6&fire=38BDF8&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=itz-sahilgaikwad&theme=transparent&hide_border=true&ring=8B5CF6&fire=38BDF8&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -152,31 +170,27 @@ I'm **Sahil Gaikwad**, a Computer Science Engineering student at Sandip Universi
 
 ---
 
+<a id="currently-learning"></a>
 ## Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-Data_Structures_%26_Algorithms-2563EB?style=for-the-badge" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/02-Object_Oriented_Programming-7C3AED?style=for-the-badge" alt="Object-Oriented Programming" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/03-Django_%26_REST_APIs-0F766E?style=for-the-badge" alt="Django and REST APIs" />
-  <img src="https://img.shields.io/badge/04-SQL_%26_Database_Design-B45309?style=for-the-badge" alt="SQL and database design" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/05-Testing_%26_Deployment-475569?style=for-the-badge" alt="Testing and deployment" />
+  <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-2563EB?style=flat-square" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-Object_Oriented_Programming-7C3AED?style=flat-square" alt="Object-Oriented Programming" />
+  <img src="https://img.shields.io/badge/API-Django_%26_REST_APIs-0F766E?style=flat-square" alt="Django and REST APIs" />
+  <img src="https://img.shields.io/badge/SQL-Database_Design-B45309?style=flat-square" alt="SQL and database design" />
+  <img src="https://img.shields.io/badge/DEV-Testing_%26_Deployment-475569?style=flat-square" alt="Testing and deployment" />
 </p>
 
 ---
 
+<a id="lets-connect"></a>
 ## Let's Connect
 
 <img src="./connect.svg" width="100%" alt="Connect with Sahil to discuss projects and development." />
 
 <p align="center">
   <a href="https://github.com/itz-sahilgaikwad">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — update the profile URL" />
