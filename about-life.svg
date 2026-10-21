@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t d">
-<title id="t">About Sahil</title><desc id="d">About section highlighting software development, learning and problem solving.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="t d">
+<title id="t">About Sahil Gaikwad</title><desc id="d">A custom profile section about software development, backend systems and continuous learning.</desc>
 <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1222"/><stop offset="1" stop-color="#171A35"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
-<rect width="1200" height="250" rx="20" fill="url(#b)" stroke="#263654"/>
-<text x="42" y="47" font-family="monospace" font-size="13" letter-spacing="3" fill="#7DD3FC">01 / ABOUT ME</text>
-<text x="42" y="88" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#F1F5F9">Curious mind. Practical builder.</text>
-<text x="42" y="125" font-family="Arial, sans-serif" font-size="17" fill="#B8C5DF">I'm a CSE student at Sandip University, Nashik, interested in backend systems,</text>
-<text x="42" y="151" font-family="Arial, sans-serif" font-size="17" fill="#B8C5DF">APIs, databases, and developer tools. I learn by building, debugging, and improving.</text>
-<g transform="translate(42 183)"><rect width="200" height="38" rx="9" fill="#142843" stroke="#24517A"/><circle cx="19" cy="19" r="5" fill="#38BDF8"/><text x="34" y="24" font-family="monospace" font-size="13" fill="#DCEBFF">BUILD PROJECTS</text></g>
-<g transform="translate(256 183)"><rect width="190" height="38" rx="9" fill="#211C42" stroke="#51418B"/><circle cx="19" cy="19" r="5" fill="#A78BFA"/><text x="34" y="24" font-family="monospace" font-size="13" fill="#E8E2FF">SOLVE PROBLEMS</text></g>
-<g transform="translate(460 183)"><rect width="185" height="38" rx="9" fill="#12352F" stroke="#246B5C"/><circle cx="19" cy="19" r="5" fill="#34D399"/><text x="34" y="24" font-family="monospace" font-size="13" fill="#D5FFF2">KEEP LEARNING</text></g>
-<g transform="translate(900 42)" fill="none" stroke="url(#a)" stroke-width="2"><path d="M0 35L45 10L90 35L90 90L45 115L0 90Z"/><path d="M0 35L45 62L90 35M45 62V115"/><circle cx="45" cy="62" r="13" fill="#7C3AED" fill-opacity=".3"/></g>
+<rect width="1200" height="280" rx="22" fill="url(#b)" stroke="#263654"/>
+<text x="42" y="43" font-family="monospace" font-size="13" letter-spacing="3" fill="#7DD3FC">01 / ABOUT ME</text>
+<text x="42" y="84" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#F1F5F9">Curious mind. Practical builder.</text>
+<text x="42" y="120" font-family="Arial,sans-serif" font-size="16" fill="#B8C5DF">I'm a Computer Science Engineering student at Sandip University, Nashik.</text>
+<text x="42" y="146" font-family="Arial,sans-serif" font-size="16" fill="#B8C5DF">I enjoy building useful software, learning backend systems, and improving through real projects.</text>
+<g transform="translate(42 181)"><rect width="205" height="42" rx="10" fill="#142843" stroke="#24517A"/><circle cx="20" cy="21" r="5" fill="#38BDF8"/><text x="36" y="26" font-family="monospace" font-size="13" fill="#DCEBFF">BUILD PROJECTS</text></g>
+<g transform="translate(261 181)"><rect width="205" height="42" rx="10" fill="#211C42" stroke="#51418B"/><circle cx="20" cy="21" r="5" fill="#A78BFA"/><text x="36" y="26" font-family="monospace" font-size="13" fill="#E8E2FF">SOLVE PROBLEMS</text></g>
+<g transform="translate(480 181)"><rect width="190" height="42" rx="10" fill="#12352F" stroke="#246B5C"/><circle cx="20" cy="21" r="5" fill="#34D399"/><text x="36" y="26" font-family="monospace" font-size="13" fill="#D5FFF2">KEEP LEARNING</text></g>
+<g transform="translate(925 42)" fill="none" stroke="url(#a)" stroke-width="2"><path d="M0 35L45 10L90 35L90 90L45 115L0 90Z"/><path d="M0 35L45 62L90 35M45 62V115"/><circle cx="45" cy="62" r="13" fill="#7C3AED" fill-opacity=".3"/></g>
+<text x="42" y="253" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#7184B3">FOCUS: BACKEND DEVELOPMENT · APIS · DATABASES · DEVELOPER TOOLS</text>
 </svg>
