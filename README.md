@@ -8,10 +8,10 @@
 <br />
 
 <a href="https://github.com/itz-sahilgaikwad">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
 
 <br /><br />
@@ -160,7 +160,7 @@ A Django application for saving, organizing, searching, and sharing reusable cod
   />
 </a>
 
-<br />
+<br /><br />
 
 <picture>
   <source
@@ -209,10 +209,10 @@ My goal is to strengthen my programming fundamentals and build reliable, maintai
 <div align="center">
 
 <a href="https://github.com/itz-sahilgaikwad">
-  <img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
 
 <br /><br />
