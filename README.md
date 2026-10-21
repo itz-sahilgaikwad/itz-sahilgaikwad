@@ -36,8 +36,6 @@
 
 <img src="./about-life.svg" width="100%" alt="About me: Computer Science Engineering student interested in backend systems, APIs, databases, and developer tools." />
 
-I'm a **Computer Science Engineering student at Sandip University, Nashik**. I enjoy building practical applications, solving programming problems, and developing my skills through hands-on projects.
-
 - **Current focus:** Python, Django, REST APIs, and databases
 - **Development interests:** Backend engineering and full-stack development
 - **Practising:** Data Structures and Algorithms, OOP, and SQL
