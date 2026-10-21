@@ -1,6 +1,7 @@
+
 <!--
   GitHub Profile README — Sahil Gaikwad
-  Profile repository: https://github.com/itz-sahilgaikwad/itz-sahilgaikwad
+  Profile repository: https://github.com/itz-sahilgaikwad/itz_sahilgaikwad
   Update the LinkedIn placeholder and Snippet Manager repository link when available.
 -->
 
@@ -112,9 +113,9 @@ A Django application for saving, organizing, searching, and sharing reusable cod
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/itz-sahilgaikwad/itz-sahilgaikwad/output/github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-sahilgaikwad/itz_sahilgaikwad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itz-sahilgaikwad/itz_sahilgaikwad/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/itz-sahilgaikwad/itz_sahilgaikwad/output/github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
   </picture>
 </p>
 
