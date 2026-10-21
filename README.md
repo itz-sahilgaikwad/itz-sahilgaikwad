@@ -17,10 +17,9 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
   <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons-png@1.0.0/icons/linkedin.png"
+    src="https://img.shields.io/static/v1?label=%20&message=%20&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge"
     alt="LinkedIn"
-    width="28"
-    height="28"
+    height="35"
   />
 </a>
 
@@ -228,10 +227,9 @@ My goal is to strengthen my programming fundamentals and build reliable, maintai
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sahil-gaikwad-a9946b2b8/">
   <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons-png@1.0.0/icons/linkedin.png"
+    src="https://img.shields.io/static/v1?label=%20&message=%20&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge"
     alt="LinkedIn"
-    width="28"
-    height="28"
+    height="35"
   />
 </a>
 
